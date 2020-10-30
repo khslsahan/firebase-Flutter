@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411861034063",
+    "firebase_url": "https://learn-fire-e70d6.firebaseio.com",
+    "project_id": "learn-fire-e70d6",
+    "storage_bucket": "learn-fire-e70d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411861034063:android:696262b7de3b1e6724363a",
+        "android_client_info": {
+          "package_name": "com.sahanbcsrh123lk.learning_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411861034063-o804gg5mnvpdaedo5piokf6e7bv1reee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC05NfQmC9YSri_wDtn1yPhEgUp6Uhh5iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411861034063-o804gg5mnvpdaedo5piokf6e7bv1reee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
